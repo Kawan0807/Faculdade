@@ -1,4 +1,6 @@
-package com.mycompany.arquiteturadesoftware.ExSingleton;
+package com.mycompany.arquiteturadesoftware.DesignerPatters.Singleton;
+
+import com.mycompany.arquiteturadesoftware.DesignerPatters.Singleton.Singleton;
 
 public class UsaSingleton {
     public static void main(String[] args) {

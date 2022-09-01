@@ -1,4 +1,4 @@
-package com.mycompany.arquiteturadesoftware.ExSingleton;
+package com.mycompany.arquiteturadesoftware.DesignerPatters.Singleton;
 
 public class Singleton {
     //MultiTrade
