@@ -1,10 +1,10 @@
-package com.mycompany.arquiteturadesoftware.batalhaTanques;
+package com.mycompany.arquiteturadesoftware.batalhaTanques.Exemplo;
 
 
 
 public class batalhaTanques {
     public static void main(String[] args) {
-        Tiger t = new Tiger();
+        Tanque t = new Tanque();
 
 
         t.setCorCanhao(CoresRGB.BLUE);

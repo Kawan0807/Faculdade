@@ -1,6 +1,6 @@
-package com.mycompany.arquiteturadesoftware.batalhaTanques;
+package com.mycompany.arquiteturadesoftware.batalhaTanques.Exemplo;
 
-public class Tiger implements Posicao, Cor, Canhao{
+public class Tanque implements Posicao, Cor, Canhao{
     private CoresRGB corTanque,corCanhao;
     private float x,y;
 
@@ -27,7 +27,7 @@ public class Tiger implements Posicao, Cor, Canhao{
 
     @Override
     public CoresRGB getcorCanhao() {
-        return this.corTanque;
+        return this.corCanhao;
     }
 
     @Override

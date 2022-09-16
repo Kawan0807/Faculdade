@@ -1,4 +1,4 @@
-package com.mycompany.arquiteturadesoftware.batalhaTanques;
+package com.mycompany.arquiteturadesoftware.batalhaTanques.Exemplo;
 
 public interface Cor {
     void setCorTanques(CoresRGB corTanques);
