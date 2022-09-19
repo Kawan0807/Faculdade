@@ -3,15 +3,15 @@ package com.mycompany.arquiteturadesoftware.DesignerPatters.Singleton;
 public class Singleton {
     //MultiTrade
     //singleton
-    private static Singleton singleton = new Singleton();
+   /* private static Singleton singleton = new Singleton();
 
-    private Singleton() { }
+    private Singleton() { }*/
 
-    public  static Singleton getInstance(){
-             return singleton;
-    }
+//    public  static Singleton getInstance(){
+//             return singleton;
+//    }
 
-    /*Lazy Singleton
+ /*   Lazy Singletonç;
     private static Singleton singleton;
 
     private Singleton() { }
