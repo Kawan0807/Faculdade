@@ -1,8 +1,5 @@
 package com.mycompany.arquiteturadesoftware.batalhaTanques.Atividade.Factory;
 
-import com.mycompany.arquiteturadesoftware.DesignerPatters.Factory.factory.Argo;
-import com.mycompany.arquiteturadesoftware.batalhaTanques.Exemplo.CoresRGB;
-
 public class FabricaTanques implements Creator{
     @Override
     public PrototipoTanque factoryMethod(ListaTanques tipoTanque) {

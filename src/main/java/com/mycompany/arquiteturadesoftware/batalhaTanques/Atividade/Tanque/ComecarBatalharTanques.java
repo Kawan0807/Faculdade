@@ -1,9 +1,5 @@
 package com.mycompany.arquiteturadesoftware.batalhaTanques.Atividade.Tanque;
 
-import com.mycompany.arquiteturadesoftware.DesignerPatters.Factory.factory.Carro;
-import com.mycompany.arquiteturadesoftware.DesignerPatters.Factory.factory.FabricaFiat;
-import com.mycompany.arquiteturadesoftware.DesignerPatters.Factory.factory.FabricaVW;
-import com.mycompany.arquiteturadesoftware.DesignerPatters.Factory.factory.ListaCarros;
 import com.mycompany.arquiteturadesoftware.batalhaTanques.Atividade.Factory.*;
 
 
